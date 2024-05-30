@@ -4,12 +4,12 @@
 
 :white_check_mark: 
 
-:heavy_exclamation_mark: 
+:heavy_exclamation_mark: Скрипт использованных SQL-команд можно посмотреть в файле Создание Таблиц.sql. 
 
 :white_check_mark:
 
-:heavy_exclamation_mark:
+:heavy_exclamation_mark: Скрипт использованных SQL-команд можно посмотреть в файле Редактирование Таблиц.sql. 
 
 :white_check_mark:
 
-:heavy_exclamation_mark:
+:heavy_exclamation_mark: Скрипт использованных SQL-команд можно посмотреть в файле Объединение Таблиц.sql. 
