@@ -12,7 +12,7 @@
 
 </br> </br>
 
-:black_square_button: 
+:black_square_button: Из таблицы Students были удалены колонки STID, BirthDate. </br> Из таблицы Teachers были удалены колонки TID, Experience. </br> В таблице Teachers колонка Name была переименована в Professor. 
 
 :copyright: Скрипт использованных SQL-команд можно посмотреть в файле Редактирование Таблиц.sql. 
 
