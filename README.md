@@ -20,7 +20,7 @@
 
 </br> </br>
 
-:black_square_button: 
+:black_square_button: Были объединены таблицы Students и Teachers при помощи INNER JOIN по совпадениям в колонке SUBJECT. </br> Использованные SQL-команды: INNER JOIN. 
 
 :copyright: Скрипт использованных SQL-команд можно посмотреть в файле Объединение Таблиц.sql. 
 
